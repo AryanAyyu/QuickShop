@@ -1,0 +1,29 @@
+# Node dependencies
+node_modules/
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+debug.log
+
+# OS/Editor junk files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Build or temp files
+coverage/
+dist/
+.tmp/
+.cache/
